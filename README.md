@@ -1,1 +1,1 @@
-# Maze-Solver (Henawy)
+# Maze-Solver (Henawi)
